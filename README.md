@@ -12,7 +12,35 @@ which will present the welcoming screen with the main menu options. (Other insta
 Follow instructions on screen and/or type the desired the option to use the planner.
 
 ## Features & Sample screens
-![alt text](https://raw.githubusercontent.com/coffeeologist/interactive-planner-in-java/blob/master/sample%20images/main_menu.JPG)
+Upon running the program, the main menu will appear:
+
+<img src="sample%20images/main_menu.JPG" width="550">
+
+Three other menus can be reached by typing in their corresponding commands. They are:
+View assignments  
+
+<img src="sample%20images/view_assignment_menu.JPG" width="550">
+
+Managing assignments
+
+<img src="sample%20images/managing_assignment_menu.JPG" width="550">
+
+View Related Information
+
+<img src="sample%20images/view_related_info_menu.JPG" width="550">
+
+One can add assignments by:
+
+<img src="sample%20images/adding_assignments.JPG" width="550">
+
+and view them by:
+
+<img src="sample%20images/view_assignment.JPG" width="550">
+
+Finally, upon declining to use the planner any further, the exit screen will appear:
+
+<img src="sample%20images/exit.JPG" width="550">
+
 
 ### Prerequisites
 
@@ -20,7 +48,7 @@ JRE and JDK for running Java files.
 
 ## Built With
 
-* Eclipse & VScode
+* Eclipse Oxygen & VScode
 
 
 ## Authors
@@ -29,7 +57,7 @@ JRE and JDK for running Java files.
 
 ## License
 
-This project is licensed under the GNU License
+This project is licensed under the GNU License.
 
 ## Acknowledgments
 The AP Computer Science curriculum and my teacher at the time, Mr.Lasser.
