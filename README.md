@@ -16,16 +16,16 @@ Upon running the program, the main menu will appear:
 
 <img src="sample%20images/main_menu.JPG" width="550">
 
-Three other menus can be reached by typing in their corresponding commands. They are:
-View assignments  
+Three other menus can be reached by typing in their corresponding commands.  
+Option 1) View assignments  
 
 <img src="sample%20images/view_assignment_menu.JPG" width="550">
 
-Managing assignments
+Option 3) Managing assignments
 
 <img src="sample%20images/managing_assignment_menu.JPG" width="550">
 
-View Related Information
+Option 4) View Related Information
 
 <img src="sample%20images/view_related_info_menu.JPG" width="550">
 
